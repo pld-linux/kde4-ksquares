@@ -4,12 +4,12 @@
 
 Summary:	Ksquares
 Name:		kde4-%{orgname}
-Version:	4.12.3
+Version:	4.12.4
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	bc35fbd119c5af509b1e9cf816c29a6d
+# Source0-md5:	f53ef1561537bb54fddc79aa91198d5f
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
